@@ -1,0 +1,15 @@
+def my_function():
+    print("Hello from a function")
+my_function()
+
+
+def fahrenheit_to_celsius(fahrenheit):
+  return (fahrenheit - 32) * 5 / 9
+
+print(fahrenheit_to_celsius(77))
+print(fahrenheit_to_celsius(95))
+print(fahrenheit_to_celsius(50))
+
+#Function definitions cannot be empty. If you need to create a function placeholder without any code, use the pass statement
+def my_function():
+  pass

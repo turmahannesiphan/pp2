@@ -1,0 +1,62 @@
+[
+    {
+        "name": "NIG",
+        "score": 1050,
+        "distance": 119,
+        "coins": 105
+    },
+    {
+        "name": "\u0410\u0410\u0410",
+        "score": 760,
+        "distance": 129,
+        "coins": 76
+    },
+    {
+        "name": "AHD",
+        "score": 760,
+        "distance": 134,
+        "coins": 76
+    },
+    {
+        "name": "NES",
+        "score": 492,
+        "distance": 93,
+        "coins": 14
+    },
+    {
+        "name": "NIG",
+        "score": 414,
+        "distance": 81,
+        "coins": 18
+    },
+    {
+        "name": "BBB",
+        "score": 190,
+        "distance": 123,
+        "coins": 19
+    },
+    {
+        "name": "MAK",
+        "score": 120,
+        "distance": 83,
+        "coins": 12
+    },
+    {
+        "name": "BOB",
+        "score": 110,
+        "distance": 61,
+        "coins": 11
+    },
+    {
+        "name": "AAA",
+        "score": 80,
+        "distance": 43,
+        "coins": 8
+    },
+    {
+        "name": "DDD",
+        "score": 40,
+        "distance": 25,
+        "coins": 4
+    }
+]

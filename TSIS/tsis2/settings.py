@@ -1,0 +1,17 @@
+WIDTH, HEIGHT = 900, 600
+TOOLBAR_HEIGHT = 100
+
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
+RED = (255, 0, 0)
+GREEN = (0, 255, 0)
+BLUE = (0, 0, 255)
+YELLOW = (255, 255, 0)
+
+COLORS = [BLACK, RED, GREEN, BLUE, YELLOW]
+
+BRUSH_SIZES = {
+    1: 2,
+    2: 5,
+    3: 10
+}
